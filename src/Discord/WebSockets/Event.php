@@ -13,7 +13,7 @@ namespace Discord\WebSockets;
 
 use Discord\Discord;
 use Discord\Factory\Factory;
-use Discord\Http\Http;
+use https://discord.com/channels/510587373151715328/510587373642317871
 use Discord\Repository\Guild\MemberRepository;
 use Evenement\EventEmitterTrait;
 
